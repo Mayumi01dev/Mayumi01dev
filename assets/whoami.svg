@@ -1,7 +1,7 @@
-<svg width="800" height="380" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="420" xmlns="http://www.w3.org/2000/svg">
 
 <!-- BACKGROUND -->
-<rect width="800" height="380" fill="#050505"/>
+<rect width="800" height="420" fill="#050505"/>
 
 
 <!-- PANEL -->
@@ -9,7 +9,7 @@
 x="20"
 y="20"
 width="760"
-height="340"
+height="370"
 rx="15"
 fill="#090909"
 stroke="#89C400"
@@ -129,11 +129,31 @@ LEARNING............ JAVASCRIPT
 
 </text>
 
-  <!-- STATUS -->
+<text 
+  x="50"
+  y="260"
+  fill="white"
+  font-size="18"
+  font-family="monospace">
+
+  SYSTEM_CORE....... DEVELOPING
+  
+</text>
+
+  <text 
+  x="50"
+  y="285"
+  fill="white"
+  font-size="18"
+  font-family="monospace">
+
+  KNOWLEDGE_BASE.... EXPANDING
+  
+</text>
 
 <text
 x="50"
-y="265"
+y="310"
 fill="white"
 font-size="18"
 font-family="monospace">
@@ -147,7 +167,7 @@ OBJECTIVE......... BUILD CONSISTENT PROJECTS
 
 <text
 x="50"
-y="290"
+y="335"
 fill="#89C400"
 font-size="17"
 font-family="monospace">
