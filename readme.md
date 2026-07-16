@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./assets/alien2.svg" width="222"/>
-<img src="./assets/loading2.svg" width="777"/>
-<img src="./assets/signal.svg" width="777"/>
-<img src="./assets/whoami.svg" width="777"/>
-<img src="./assets/system-d.svg" width="777">
-<img src="./assets/network.svg" width="777">
-<img src="./assets/modules-l.svg" width="777">
-<img src="./assets/missions.svg" width="777">
-<img src="./assets/disconnected.svg" width="777">
+<img src="./assets/alien2.svg" width="111"/>
+<img src="./assets/loading2.svg" width="555"/>
+<img src="./assets/signal.svg" width="555"/>
+<img src="./assets/whoami.svg" width="555"/>
+<img src="./assets/system-d.svg" width="555">
+<img src="./assets/network.svg" width="555">
+<img src="./assets/modules-l.svg" width="555">
+<img src="./assets/missions.svg" width="555">
+<img src="./assets/disconnected.svg" width="555">
 </div>
 <div align="center">
 <a href="https://github.com/Mayumi01dev">
