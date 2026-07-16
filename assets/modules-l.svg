@@ -1,7 +1,7 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="430" xmlns="http://www.w3.org/2000/svg">
 
 <!-- BACKGROUND -->
-<rect width="800" height="400" fill="#050505"/>
+<rect width="800" height="430" fill="#050505"/>
 
 
 <!-- PANEL -->
@@ -10,7 +10,7 @@
 x="20"
 y="20"
 width="760"
-height="350"
+height="375"
 rx="15"
 fill="#090909"
 stroke="#89C400"
@@ -116,7 +116,18 @@ fill="white">
 
 </text>
 
+<text x="50" y="335">
 
+[ ] FRAMEWORKS
+  
+</text>
+
+<text x="50" y="370">
+
+[ ] APIs
+  
+</text>
+  
 </g>
 
 
