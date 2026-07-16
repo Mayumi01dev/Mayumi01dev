@@ -1,0 +1,171 @@
+<svg width="800" height="290" xmlns="http://www.w3.org/2000/svg">
+
+<!-- BACKGROUND -->
+<rect width="800" height="290" fill="#050505"/>
+
+
+<!-- PANEL -->
+<rect
+x="20"
+y="20"
+width="760"
+height="250"
+rx="15"
+fill="#090909"
+stroke="#89C400"
+stroke-width="2"/>
+
+
+<!-- HEADER STATUS -->
+
+<circle
+cx="50"
+cy="50"
+r="8"
+fill="#89C400">
+
+<animate
+attributeName="opacity"
+values="1;0.2;1"
+dur="1s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<text
+x="75"
+y="57"
+fill="#89C400"
+font-size="24"
+font-family="monospace">
+
+IDENTITY_PROTOCOL
+
+</text>
+
+
+<text
+x="600"
+y="57"
+fill="#555"
+font-size="14"
+font-family="monospace">
+
+ID: EX01-007
+
+</text>
+
+
+<!-- DIVIDER -->
+
+<line
+x1="45"
+y1="80"
+x2="750"
+y2="80"
+stroke="#89C400"
+stroke-opacity="0.3"/>
+
+
+
+<!-- USER DATA -->
+
+<text
+x="50"
+y="120"
+fill="white"
+font-size="18"
+font-family="monospace">
+
+NAME.............. MAYUMI
+
+</text>
+
+
+<text
+x="50"
+y="150"
+fill="white"
+font-size="18"
+font-family="monospace">
+
+SPECIES........... HUMAN
+
+</text>
+
+
+<text
+x="50"
+y="180"
+fill="white"
+font-size="18"
+font-family="monospace">
+
+OCCUPATION........ FRONT-END DEV (IN PROCESS)
+
+</text>
+
+
+<text
+x="50"
+y="210"
+fill="white"
+font-size="18"
+font-family="monospace">
+
+LOCATION.......... EARTH
+
+</text>
+
+
+<!-- STATUS -->
+
+<text
+x="50"
+y="235"
+fill="#89C400"
+font-size="18"
+font-family="monospace">
+
+STATUS............ ONLINE
+
+</text>
+
+
+<!-- MISSION -->
+
+<text
+x="50"
+y="255"
+fill="#89C400"
+font-size="17"
+font-family="monospace">
+
+MISSION........... LEARN • BUILD • EXPLORE
+
+</text>
+
+
+
+<!-- SCANNER EFFECT -->
+
+<rect
+x="25"
+y="25"
+width="750"
+height="2"
+fill="#89C400"
+opacity="0.15">
+
+<animate
+attributeName="y"
+from="25"
+to="260"
+dur="3s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+</svg>

@@ -1,0 +1,196 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+
+<!-- BACKGROUND -->
+<rect width="800" height="400" fill="#050505"/>
+
+
+<!-- PANEL -->
+
+<rect
+x="20"
+y="20"
+width="760"
+height="350"
+rx="15"
+fill="#090909"
+stroke="#89C400"
+stroke-width="2"/>
+
+
+<!-- HEADER -->
+
+<circle
+cx="50"
+cy="50"
+r="8"
+fill="#89C400">
+
+<animate
+attributeName="opacity"
+values="1;0.3;1"
+dur="1s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<text
+x="75"
+y="57"
+fill="#89C400"
+font-size="24"
+font-family="monospace">
+
+MODULES_LOADED
+
+</text>
+
+
+<text
+x="600"
+y="57"
+fill="#555"
+font-size="14"
+font-family="monospace">
+
+STATUS: READY
+
+</text>
+
+
+<line
+x1="45"
+y1="80"
+x2="750"
+y2="80"
+stroke="#89C400"
+stroke-opacity="0.3"/>
+
+
+
+<!-- MODULE LIST -->
+
+<g
+font-family="monospace"
+font-size="18"
+fill="white">
+
+
+<text x="50" y="125">
+
+[✓] HTML............. ONLINE
+
+</text>
+
+
+<text x="50" y="160">
+
+[✓] CSS.............. ONLINE
+
+</text>
+
+
+<text x="50" y="195">
+
+[✓] JAVASCRIPT....... LEARNING
+
+</text>
+
+
+<text x="50" y="230">
+
+[✓] GIT / GITHUB..... CONNECTED
+
+</text>
+
+
+<text x="50" y="265">
+
+[✓] VSCODE............. ACTIVE
+
+</text>
+
+<text x="50" y="300">
+
+[✓] FIGMA............... ACTIVE
+
+</text>
+
+
+</g>
+
+
+
+<!-- SIDE SIGNAL -->
+
+<rect
+x="650"
+y="115"
+width="80"
+height="120"
+fill="#050505"
+stroke="#89C400"/>
+
+
+<text
+x="690"
+y="145"
+text-anchor="middle"
+fill="#89C400"
+font-size="14"
+font-family="monospace">
+
+CORE
+
+</text>
+
+
+<circle
+cx="690"
+cy="185"
+r="25"
+fill="none"
+stroke="#89C400"
+stroke-width="2">
+
+
+<animateTransform
+attributeName="transform"
+type="rotate"
+from="0 690 185"
+to="360 690 185"
+dur="4s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<circle
+cx="690"
+cy="185"
+r="8"
+fill="#89C400"/>
+
+
+
+<!-- SCANLINE -->
+
+<rect
+x="25"
+y="25"
+width="750"
+height="2"
+fill="#89C400"
+opacity="0.15">
+
+<animate
+attributeName="y"
+from="25"
+to="275"
+dur="3s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+</svg>
