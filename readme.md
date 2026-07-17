@@ -1,6 +1,4 @@
 <div align="center">
-
-<img src="./assets/alien2.svg" width="150"/><br>
 <img src="./assets/loading2.svg" width="678"/>
 <img src="./assets/signal.svg" width="678"/>
 <img src="./assets/whoami.svg" width="678"/>
@@ -22,4 +20,5 @@ src="https://img.shields.io/badge/GITHUB-CONNECTED-050505?style=for-the-badge&lo
 src="https://img.shields.io/badge/LINKEDIN-ONLINE-050505?style=for-the-badge&logo=linkedin&logoColor=89C400"
 />
 </a>
+<img src="./assets/alien2.svg" width="150"/><br>
 </div>
