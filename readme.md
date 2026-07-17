@@ -14,11 +14,10 @@
 src="https://img.shields.io/badge/GITHUB-CONNECTED-050505?style=for-the-badge&logo=github&logoColor=89C400"
 />
 </a>
-  <br>
 <a href="https://www.linkedin.com/in/c%C3%ADntia-mayumi-o-m-1b876a3b6/">
 <img 
 src="https://img.shields.io/badge/LINKEDIN-ONLINE-050505?style=for-the-badge&logo=linkedin&logoColor=89C400"
 />
 </a>
-<br><br><img src="./assets/alien2.svg" width="100"/><br>
+<br><br><img src="./assets/alien2.svg" width="177"/>
 </div>
